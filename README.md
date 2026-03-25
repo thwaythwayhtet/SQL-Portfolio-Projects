@@ -13,7 +13,7 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 *	Business Analysis
 
 ## 📁 Featured Projects
-*	[Restaurant Order Analysis]([https://github.com/thwaythwayhtet/Restaurant-Order-Analysis/edit/main/README.md])(https://github.com/thwaythwayhtet/Restaurant-Order-Analysis/tree/main)
+*	[Restaurant Order Analysis](https://github.com/thwaythwayhtet/Restaurant-Order-Analysis/tree/main)
 *	
 
 ## 📫 Connect With Me
