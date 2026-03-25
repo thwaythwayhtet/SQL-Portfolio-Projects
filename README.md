@@ -1,1 +1,19 @@
-# SQL-Portfolio-Projects
+#💾 SQL PORTFOLIO PROJECT
+Welcome to my SQL Project Portfolio!
+Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. My passion lies in Demand Forecasting, Supply Chain analytics, Business Analytics and Statistics. This repository showcases end-to-end data analysis projects focused on business insights, supply chain optimization, and analytics.
+
+## 🛠 Tools & Skills
+*	SQL (MySQL / PostgreSQL) 
+*	Data Cleaning & Transformation 
+*	Window Functions 
+*	Aggregations & Joins 
+*	Business Analysis
+
+## 📁 Featured Projects
+*	[Restaurant Order Analysis]()
+*	
+
+## 📫 Connect With Me
+* 💼 [LinkedIn](www.linkedin.com/in/thway-thway-htet) 
+* 💻 [GitHub](https://github.com/thwaythwayhtet) 
+ 
