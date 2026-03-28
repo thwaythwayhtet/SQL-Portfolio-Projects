@@ -14,7 +14,10 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 
 ## 📁 Featured Projects
 *	[Restaurant Order Analysis](https://github.com/thwaythwayhtet/Restaurant-Order-Analysis/tree/main)
-*	
+*	[Exploratory Data Analysis (EDA) Project](https://github.com/thwaythwayhtet/EDA-Project/blob/main/README.md)
+•	[SQL Data Analyst Portfolio Project]() 
+•	End-to-End Supply Chain Analytics & Forecast Optimization
+
 
 ## 📫 Connect With Me
 * 💼 [LinkedIn](www.linkedin.com/in/thway-thway-htet) 
